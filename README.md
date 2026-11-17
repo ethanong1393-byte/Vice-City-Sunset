@@ -9,3 +9,8 @@ You are NOT permitted to:
 
 # Vice-City-Sunset
 Permanent GTA 6 Vice City sunset gradient theme and custom home icon for BetterDiscord. Made by discord user @nvmbyte0_0. Dms wide open to people who want custom themes for discord :)
+> [!WARNING]
+> **NOTICE: YOU MUST HAVE BETTERDISCORD INSTALLED!**
+> If you don't have it installed yet, go to **[betterdiscord.app](https://betterdiscord.app)** and install it first before using this theme!
+
+---
